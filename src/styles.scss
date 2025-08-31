@@ -1,0 +1,10 @@
+@use 'sass:color';
+
+$color-azul-policial: #0d1b2a;
+$color-fondo-suave: #011122;
+
+body {
+  background-color: $color-fondo-suave;
+  font-family: 'Roboto', sans-serif;
+  color: $color-azul-policial;
+}
